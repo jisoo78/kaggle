@@ -1,0 +1,14 @@
+venv/
+.venv/
+env/
+ENV/
+lib/
+bin/
+include/
+share/
+pyvenv.cfg
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+.csv/
